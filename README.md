@@ -3,7 +3,7 @@ Stringify HTML for Brunch
 
 How does this not already exist?  
 Original by [Sam Terrell](https://github.com/samterrell) [here](https://github.com/samterrell/stringify-html-brunch)  
-This fork changes the template extension to ejs.
+This fork changes the template extension to ejs (for example for use with Underscore, albeit the file extension doesn't really matter).  
 Below is the README from upstream (more or less).
 
 ## Usage
