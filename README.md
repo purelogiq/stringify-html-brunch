@@ -1,13 +1,16 @@
 Stringify HTML for Brunch
 ---
 
-How does this not already exist?
+How does this not already exist?  
+Original by [Sam Terrell](https://github.com/samterrell) [here](https://github.com/samterrell/stringify-html-brunch)  
+This fork changes the template extension to ejs.
+Below is the README from upstream (more or less).
 
 ## Usage
 This is really designed for projects using ES6 modules
 with Angular 1.x in HTML5 mode.
 ```bash
-npm install --save samterrell/stringify-html-brunch
+npm install --save purelogiq/stringify-html-brunch
 ```
 
 ## Why?
