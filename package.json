@@ -1,18 +1,18 @@
 {
   "name": "stringify-html-brunch",
   "version": "1.0.0",
-  "description": "Converts html files into importable strings.",
+  "description": "Converts html files into importable strings. Forked by purelogiq to change file extension to ejs.",
   "author": "Sam Terrell <samterrell@gmail.com> (https://github.com/samterrell)",
   "license": "WTFPL",
   "keywords": "brunch template static html",
   "main": "index",
-  "homepage": "https://github.com/samterrell/stringify-html-brunch",
+  "homepage": "https://github.com/purelogiq/stringify-html-brunch",
   "bugs": {
-    "url": "https://github.com/samterrell/stringify-html-brunch/issues"
+    "url": "https://github.com/purelogiq/stringify-html-brunch/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:samterrell/stringify-html-brunch.git"
+    "url": "git@github.com:purelogiq/stringify-html-brunch.git"
   },
   "scripts": {
     "test": "node_modules/.bin/eslint index.js"
