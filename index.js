@@ -8,7 +8,7 @@ StringifyCompiler.prototype.compile = function(params) {
 };
 StringifyCompiler.prototype.brunchPlugin = true;
 StringifyCompiler.prototype.type = 'template';
-StringifyCompiler.prototype.extension = 'html';
-StringifyCompiler.prototype.pattern = /\.html$/;
+StringifyCompiler.prototype.extension = 'ejs';
+StringifyCompiler.prototype.pattern = /\.ejs$/;
 
 module.exports = StringifyCompiler;
